@@ -1,16 +1,16 @@
 {
-  "name": "eslint-plugin-literal-blacklist",
+  "name": "eslint-plugin-codepogo-blacklist",
   "description": "An ESLint micro plugin",
   "version": "0.1.2",
-  "author": "kyaido",
+  "author": "mcgaffin",
   "bugs": {
-    "url": "https://github.com/kyaido/eslint-plugin-literal-blacklist/issues"
+    "url": "https://github.com/mcgaffin/eslint-plugin-literal-blacklist/issues"
   },
   "devDependencies": {
     "eslint": "^6.1.0",
     "mocha": "^7.1.2"
   },
-  "homepage": "https://github.com/kyaido/eslint-plugin-literal-blacklist",
+  "homepage": "https://github.com/mcgaffin/eslint-plugin-literal-blacklist",
   "keywords": [
     "eslint",
     "eslint-plugin",
@@ -20,7 +20,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kyaido/eslint-plugin-literal-blacklist.git"
+    "url": "https://github.com/mcgaffin/eslint-plugin-literal-blacklist.git"
   },
   "scripts": {
     "test": "mocha tests/**/*.js"
